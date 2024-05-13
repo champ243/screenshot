@@ -5,7 +5,7 @@ import (
 	"image"
 	"image/color"
 
-	"github.com/kbinani/screenshot/internal/util"
+	"github.com/champ243/screenshot/internal/util"
 	"github.com/gen2brain/shm"
 	"github.com/jezek/xgb"
 	mshm "github.com/jezek/xgb/shm"
